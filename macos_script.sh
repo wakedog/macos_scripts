@@ -2,10 +2,10 @@
 
 # ASCII art banner
 echo "
-   __  __  __  __  __  __  __  __  __  __  __  __
-  /  \/  \/  \/  \/  \/  \/  \/  \/  \/  \/  \/  \
+   __  __  __  __  __  __  __ 
+  /  \/  \/  \/  \/  \/  \/  \
  ( W   A   K   E   D   O   G )
-  \__/\__/\__/\__/\__/\__/\__/\__/\__/\__/\__/
+  \__/\__/\__/\__/\__/\__/\__/
 "
 
 # Create a function to prompt the user for confirmation before executing a block of code
